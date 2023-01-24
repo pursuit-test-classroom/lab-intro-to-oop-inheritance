@@ -1,0 +1,26 @@
+{
+  "name": "oop-fruits-pets-lab-solution",
+  "version": "1.0.0",
+  "description": "A lap to practice OOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinpursuit/oop-fruits-pets-lab-solution.git"
+  },
+  "keywords": [
+    "OOP"
+  ],
+  "author": "K. Rafalski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joinpursuit/oop-fruits-pets-lab-solution/issues"
+  },
+  "homepage": "https://github.com/joinpursuit/oop-fruits-pets-lab-solution#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
